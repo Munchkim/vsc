@@ -1,0 +1,10 @@
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\bin\Debug\Flag.exe.config
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\bin\Debug\Flag.exe
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\bin\Debug\Flag.pdb
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\obj\Debug\Flag.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\obj\Debug\Flag.Properties.Resources.resources
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\obj\Debug\Flag.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\obj\Debug\Flag.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\obj\Debug\Flag.exe
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\obj\Debug\Flag.pdb
+C:\Users\dell\OneDrive\Desktop\VSC\Flag\Flag\obj\Debug\Flag.Flags.resources
